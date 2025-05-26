@@ -12407,7 +12407,6 @@ ul.comment-list:has(>.th-comment-item ~ .th-comment-item):first-child>.th-post-c
 
 .hero-inner.hero-style1 {
   padding: 315px 0 190px;
-  background-image: url(../../assets/img/hero/hero_bg_1_1.jpg);
 }
 
 @media (max-width: 575px) {
